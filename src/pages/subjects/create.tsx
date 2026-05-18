@@ -1,6 +1,6 @@
 const SubjectsCreate = () => {
   return (
-    <div>SubjectsCreate</div>
+    <div>Create Subjects</div>
   )
 }
 
